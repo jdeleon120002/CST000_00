@@ -2,13 +2,13 @@
 Hello World in Dutch
 Hallo wereld in het Nederlands
 
-Class ID: *Aunt Beast*
+Class ID: Scotched
 
-Assignement ID: CST126
+Assignement ID: CST126_A00
 
 Unresolved Issues:  None. 
 
-Notes: Compiled with Visual Studio 2017 on Windows 7. 
+Notes: Compiled with Visual Studio 2017 on Windows 10. 
 
 See: [Wikipedia Hello, World! program](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program).  
 See: [Wikipedia Markdown](https://en.wikipedia.org/wiki/Markdown).
