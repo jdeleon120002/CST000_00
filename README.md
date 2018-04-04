@@ -2,11 +2,12 @@
 Hello World in Dutch
 Hallo wereld in het Nederlands
 
-Class ID: *Aunt Beast*
+Class ID: Scotched
 
-Assignement ID: *CST???_00*
+Assignement ID: CST126_A00
 
 Unresolved Issues:  None. 
+
 
 Notes: Originally compiled in Windows 7.  Repointed to Windows 10 which appears to work for both 7 & 10.
 
@@ -21,13 +22,13 @@ Your program should output:
      "Hallo wereld" is "hello world" in Dutch
 
 Instructions: 
+- [x] 0. Fork this repository.  
+- [x] 1. Clone YOUR forked repository.  
+- [x] 2. Modify main.cpp by adding the output "Hallo wereld" is "hello world" in Dutch
+- [x] 3. Build and run the program.  
+- [x] 4. Update this README.md file.  
+- [x] 5. Clean the project.  
 
-- [ ] 0. Fork this repository.  
-- [ ] 1. Clone YOUR forked repository.  
-- [ ] 2. Modify main.cpp by adding the output "Hallo wereld" is "hello world" in Dutch
-- [ ] 3. Build and run the program.  
-- [ ] 4. Update this README.md file.  (I'm Aunt Beast... choose your own Class ID)
-- [ ] 5. Clean the project.  
 - [ ] 6. Commit your changes.  
 - [ ] 7. Push your changes to your repository. 
 - [ ] 8. Check the time isn't past the due date/time. 
