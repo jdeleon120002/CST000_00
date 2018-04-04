@@ -8,7 +8,7 @@ Assignement ID: CST000_00
 
 Unresolved Issues:  None. 
 
-Notes: Compiled with Visual Studio 2017 on Windows 7. 
+Notes: Originally compiled in Windows 7.  Repointed to Windows 10 which appears to work for both 7 & 10.
 
 ---
 
@@ -19,11 +19,10 @@ Your program should output:
 
 Instructions: 
 
-- [X] 0. Fork this repository.  
 - [X] 1. Clone YOUR forked repository.  
 - [X] 2. Modify main.cpp by adding the output "Hallo wereld" is "hello world" in Dutch
 - [X] 3. Build and run the program.  
-- [X] 4. Update this README.md file.  
+- [X] 4. Update this README.md file.  (I'm Aunt Beast, choose your own Class ID)
 - [X] 5. Clean the project.  
 - [X] 6. Commit your changes.  
 - [X] 7. Push your changes to your repository. 
